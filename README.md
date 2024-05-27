@@ -12,7 +12,7 @@ Run the executable
 
 ```sh
 # Clone the repository
-git clone
+git clone https://github.com/TechTreker/IPv4-Shellcode-Obfuscator.git
 
 # Navigate to project directory
 cd IPv4-Shellcode-Obfuscator
