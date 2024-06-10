@@ -4,9 +4,9 @@
 The IPv4 Shellcode Obfuscator / Deobfuscator transforms your shellcode into IPv4 Addresses
 
 ## Usage
-Clone the repository to your local machine
-Compile the code using a C compiler
-Run the executable
+Clone the repository to your local machine.\
+Compile the code using a C compiler.\
+Run the executable.
 
 ### Example Compilation & Execution
 
